@@ -1,3 +1,8 @@
+ADD INTENT RECOGNITION FOR UNETHICAL PERSON WORKING BEHAVIOR
+make te tr
+
+
+
 # Hacker's Guide to Machine Learning with Python 🐱‍💻
 
 This book brings the fundamentals of Machine Learning to you, using tools and techniques used to solve real-world problems in Computer Vision, Natural Language Processing, and Time Series analysis. The skills taught in this book will lay the foundation for you to advance your journey to Machine Learning Mastery.
